@@ -1,0 +1,13 @@
+cd = change directory
+dir = lista arquivos/pastas
+
+haskell:
+#começar digitando ghci no terminal
+# Upload do arquivo
+:l (nome do arquivo, ex: :l teste.hs)
+
+# Reload do arquivo
+:r
+
+#sair do ghci
+:q
